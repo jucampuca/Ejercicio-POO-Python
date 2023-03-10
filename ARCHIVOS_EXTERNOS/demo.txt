@@ -1,0 +1,8 @@
+Me he cargado todo lo que había.
+Esta es una prueba de adicion de informacion.
+Se entenderá el correcto funcionamiento de método write.
+Animo Pythoneros.
+
+
+
+Esto es una nueva linea
